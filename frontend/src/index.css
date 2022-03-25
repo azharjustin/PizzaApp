@@ -55,7 +55,7 @@ button {
 .footer {
   grid-area: footer;
   background-color: #203040;
-  color: #ffffff;
+  color: #e41616;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -436,3 +436,9 @@ tbody > tr:nth-child(odd) {
 .categories a:hover {
   background-color: #c0c0c0;
 }
+.azhar{
+  color:white;
+}
+
+
+

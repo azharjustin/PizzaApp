@@ -1,0 +1,38 @@
+
+
+  .pizza-image{
+    width: 340px;
+    height: 200px;
+    object-fit: cover;
+  }
+  /* .pizza-container{
+    width: 340px;
+    height: min-content;
+  } */
+  
+  .pizza-specs{
+      margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: flex-end;
+  
+  }
+  
+  .pizza-name{
+    margin: 0;
+    font-size: 24px;
+  }
+  .pizza-category{
+    margin-top: 0;
+  }
+  .pizza-rating{
+    font-size: 18px;
+  }
+  .pizza-list{
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 50px;
+  }

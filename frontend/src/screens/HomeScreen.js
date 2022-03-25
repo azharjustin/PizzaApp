@@ -5,6 +5,8 @@ import { listProducts } from "../actions/productActions";
 import { detailsProduct } from "../actions/productActions";
 import Slider from "../components/Slider";
 import Testimonial from "../components//Testimonial";
+import { products } from "../pages/Home";
+import Az from "../screens/Az";
 
 const HomeScreen = (props) => {
   const productList = useSelector((state) => state.productList);
@@ -27,6 +29,7 @@ const HomeScreen = (props) => {
   };
   return loading ? (
     <div> Loading....</div>
+
   ) : error ? (
     <div>{error}</div>
   ) : (
@@ -46,6 +49,7 @@ const HomeScreen = (props) => {
         </div>
       </div>
       <Slider />
+     
       <section id="aa-popular-category">
         <div className="container">
           <div className="row">
@@ -257,4 +261,7 @@ const HomeScreen = (props) => {
   );
 };
 
+
+
 export default HomeScreen;
+

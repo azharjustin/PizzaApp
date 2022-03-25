@@ -7,7 +7,7 @@ import ProductScreen from "../screens/ProductScreen";
 import CheckoutScreen from "../screens/CheckoutScreen";
 import CartScreen from "../screens/CartScreen";
 import ShippingScreen from "../screens/ShippingScreen";
-
+import Az from "../screens/Az";
 //Components
 import Header from "../components/Header";
 import Navbar from "../components/NavBar";
@@ -25,6 +25,8 @@ export default class Main extends Component {
           <Route path="/" exact={true} component={HomeScreen} />
           <Route path="/Checkout" component={CheckoutScreen} />
           <Route path="/shipping" component={ShippingScreen} />
+          <Az/>
+          
           <Footer />
         </BrowserRouter>
       </div>

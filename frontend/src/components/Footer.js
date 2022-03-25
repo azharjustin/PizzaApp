@@ -130,10 +130,10 @@ function Footer() {
           <div className="container">
             <div className="row">
               <div className="col-md-12">
-                <div className="aa-footer-bottom-area">
+                <div className="aa-footer-bottom-area-azhar">
                   <p>
                     Designed by{" "}
-                    <a href="https://github.com/azharjustin">Azhar</a>
+                    <a className="azhar" href="https://github.com/azharjustin">Azhar</a>
                   </p>
                   <div className="aa-footer-payment">
                     <span className="fa fa-cc-mastercard" />

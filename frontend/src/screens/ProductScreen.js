@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import { detailsProduct } from "../actions/productActions";
 import Header from "../components/Header";
+import { products } from "../pages/Home";
 
 const ProductScreen = (props) => {
   const [qty, setQty] = useState(1);

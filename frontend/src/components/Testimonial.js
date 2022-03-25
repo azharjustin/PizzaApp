@@ -70,7 +70,7 @@ function Testimonial() {
                           </a>
                           <span href="#">
                             <i className="fa fa-clock-o" />
-                            June 26, 2016
+                            June 26, 2022
                           </span>
                         </figcaption>
                       </figure>
@@ -107,7 +107,7 @@ function Testimonial() {
                           </a>
                           <span href="#">
                             <i className="fa fa-clock-o" />
-                            June 26, 2016
+                            June 26, 2022
                           </span>
                         </figcaption>
                       </figure>
@@ -144,7 +144,7 @@ function Testimonial() {
                           </a>
                           <span href="#">
                             <i className="fa fa-clock-o" />
-                            June 26, 2016
+                            June 26, 2022
                           </span>
                         </figcaption>
                       </figure>
