@@ -92,14 +92,14 @@ function Footer() {
                         <div className="aa-footer-widget">
                           <h3>Contact Us</h3>
                           <address>
-                            <p>Potsdamer street 63,10785,Berlin,Germany</p>
+                            <p>65,merina beach,chennai</p>
                             <p>
                               <span className="fa fa-phone" />
-                              +1 212-982-4589
+                              +91 89868 52356
                             </p>
                             <p>
                               <span className="fa fa-envelope" />
-                              wahab3060@gmail.com
+                             azharjustin37@gmail.com
                             </p>
                           </address>
                           <div className="aa-footer-social">
@@ -133,7 +133,7 @@ function Footer() {
                 <div className="aa-footer-bottom-area">
                   <p>
                     Designed by{" "}
-                    <a href="https://github.com/AbdulWahab0">Abdul Wahab</a>
+                    <a href="https://github.com/azharjustin">Azhar</a>
                   </p>
                   <div className="aa-footer-payment">
                     <span className="fa fa-cc-mastercard" />

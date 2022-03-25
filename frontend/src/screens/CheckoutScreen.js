@@ -403,19 +403,19 @@ function CheckoutScreen(props) {
                           <tbody>
                             <tr>
                               <td>
-                                T-Shirt <strong> x 1</strong>
+                                pizza <strong> x 1</strong>
                               </td>
                               <td>$150</td>
                             </tr>
                             <tr>
                               <td>
-                                Polo T-Shirt <strong> x 1</strong>
+                                Burger <strong> x 1</strong>
                               </td>
                               <td>$250</td>
                             </tr>
                             <tr>
                               <td>
-                                Shoes <strong> x 1</strong>
+                                shakes<strong> x 1</strong>
                               </td>
                               <td>$350</td>
                             </tr>

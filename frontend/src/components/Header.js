@@ -69,7 +69,7 @@ function Header(props) {
                         aria-expanded="true"
                       >
                         <i className="fa fa-usd" />
-                        USD
+                        Rs
                         <span className="caret" />
                       </a>
                       <ul
